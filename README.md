@@ -1,3 +1,8 @@
+Requires OpenAI API key in your `.env` file.
+```
+OPENAI_API_KEY=<Your key here>
+```
+
 This takes two command line arguments (`language`, `task`) and outputs a function and a test of said function.
 
 
